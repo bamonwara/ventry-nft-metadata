@@ -1,0 +1,9 @@
+{
+  "name": "Ventry Souvenir #1",
+  "description": "This NFT is a souvenir for attendees of Ventry Event",
+  "image": "https://github.com/bamonwara/ventry-nft-metadata/blob/e29904cef4de180dde15101bc5b9a11bb3552905/images/cateiei.jpg",
+  "attributes": [
+    { "trait_type": "Event", "value": "Ventry Launch" },
+    { "trait_type": "Edition", "value": "First" }
+  ]
+}
